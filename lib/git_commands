@@ -1,0 +1,4 @@
+1. git init ==> To initializing git in project.
+2. git add .gitignore ==> To Add this file 
+3. git add . ==> To Add all files 
+4. git status ==> to show status of adding files or not

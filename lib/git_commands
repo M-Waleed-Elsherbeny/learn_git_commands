@@ -1,4 +1,6 @@
 1. git init ==> To initializing git in project.
-2. git add .gitignore ==> To Add this file 
-3. git add . ==> To Add all files 
-4. git status ==> to show status of adding files or not
+2. git add .gitignore ==> To Add this file.
+3. git add . ==> To Add all files.
+4. git status ==> to show status of adding files or not.
+5. git commit -m "Type My Comment" ==> To Save Files.
+6. git log ==> To Show The Last Commit and Details of all Commits.

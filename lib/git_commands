@@ -4,3 +4,17 @@
 4. git status ==> to show status of adding files or not.
 5. git commit -m "Type My Comment" ==> To Save Files.
 6. git log ==> To Show The Last Commit and Details of all Commits.
+7. git diff ==> to show the different between last commit and last modified.
+## =============================================== 
+Widget build(BuildContext context) {
+-    return Container();
++    return ElevatedButton(
++      onPressed: () {},
++      child: Text("Custom Primary Button"),
++    );
+   }
+ }
+ ## =============================================== 
+ 8. git checkout -- .  ==> to return one step before commit.
+ 9. git reset --soft HEAD~1  ==> to return one step after commit and don't remove Changes.
+ 10. git reset --hard HEAD~1  ==> to return one step after commit and will remove Changes.

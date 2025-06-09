@@ -20,4 +20,9 @@ Widget build(BuildContext context) {
  10. git reset --hard HEAD~1  ==> to return one step after commit and will remove Changes.
 11. git push -u origin main ==> To Bush In Main Branch.
 12. git checkout -b payment ==> To create payment brach and activate it.
-13. git push -u origin payment ==> To Bush In payment Branch.
+13. git push origin payment ==> To Bush In payment Branch.
+14. git branch ==> To Git all LOCAL branches.
+15. git branch -r ==> To Git all REMOTE branches.
+17. git branch -D payment ==> To Delete payment branch From LOCAL.
+18. git push origin --delete authentication ==> To Delete payment branch From REMOTE.
+19. git checkout payment ==> To Get Payment branch after Delete From Local
